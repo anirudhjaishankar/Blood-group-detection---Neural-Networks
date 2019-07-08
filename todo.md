@@ -10,4 +10,5 @@
 8. Create a detailed instruction as to how to take the photo and upload on the server.
 9. Send the uploaded image to the segmentation python program.
 10. Send the data for prediction.
-11. Display the result and get user data to generate a pdf report. 
+11. Send the result to classification program.
+12. Display the result and get user data to generate a pdf report. 
